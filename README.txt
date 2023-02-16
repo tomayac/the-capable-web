@@ -1,3 +1,4 @@
 # The Capable Web
 
-https://www.overleaf.com/project/63eb8b2cab53ff8d85871497
+- [LaTeX source code](https://www.overleaf.com/project/63eb8b2cab53ff8d85871497)
+- [PDF](https://github.com/tomayac/the-capable-web/raw/main/the-capable-web.pdf)
